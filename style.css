@@ -100,6 +100,7 @@ color: #38a1f3;
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
+  
 
 /* media Query  */
 @media screen and (max-width : 1000px ){
